@@ -1,0 +1,59 @@
+Quem ganhou a copa do mundo de 2002 | futebol | 4 | Itália | Peru | Argentina | Brasil
+Quem ganhou a copa do mundo de 2006 | futebol | 1 | Itália | Peru | Argentina | Brasil
+Quem ganhou a copa do mundo de 2010 | futebol | 2 | Itália | Espanha | Argentina | Brasil
+Quem ganhou a copa do mundo de 2014 | futebol | 3 | Itália | Peru | Alemanha | Brasil
+Quem ganhou a copa do mundo de 2018 | futebol | 1 | França | Peru | Argentina | Brasil
+Quem é o rei do futbol ? | futebol | 2 | Maradona | Pelé | Messi | Neymar
+Jogador com sobre nome de profeta | futebol | 1 | Gabrel Jesus | Messi | Ronaldo | Kaka 
+Jogador Brasileiro mais conhecido atualmente | futebol | 1 | Neymar | Ronaldo | Kaka | Ronaldinho
+Jogador com o Cabelo mais feio na copa do mundo de 2002| futebol | 3 |Neymar | Gabriel Jesus | Ronaldo | Lucas
+Quem é conhecido como "Fenômeno" | futebol | 4 | Pelé | Maradona | Gabriel jesus | Ronaldo 
+Quanto é 5+5?| Matemática | 4 | 55 | 0 | 5+6 | 10
+Quanto é 10+5?| Matemática | 2 | 55 | 15 | 5+6 | 10
+Quanto é 5+512?| Matemática | 4 | 55 | 0 | 5+6 | Nenhuma
+Quanto é 50+50?| Matemática | 3 | 55 | 0 | 100 | 10
+Caminhando ao fim da tarde, uma senhora contou 20 casas em uma rua à sua direita. No regresso, ela contou 20 casas à sua esquerda. Quantas casas ela viu no total?| Matemática | 2 | 5 | 20 | 30 | 7
+Chamamos de quociente o... | Matemática | 4 | resultado de uma multiplicação | número que antecede a variável em uma equação do 1º grau | a soma de dois números inteiros |resultado de uma divisão
+A unidade "grama" serve para medir:| Matemática | 4 | volume | comprimento | capacidade | massa
+Quantos centímetros existem em 5 metros| Matemática | 2 |50 cm | 500 cm | 5000 cm | 0,5 cm
+O que é aritmética?| Matemática | 3 | parte da matemática que estuda as figuras plana | parte da matemática que estuda números e operações | parte da matemática que explica a origem dos números | parte da matemática que estuda os círculos
+O que é um compasso? | Matemática | 3 |instrumento usado para medir o tamanho dos passos de uma pessoa| é uma trena com aproximadamente 3 metros de comprimento | instrumento de desenho usado para traçar circunferências | um relógio analógico antigo
+O que significa cellphone?| inglês | 2 | chuveiro | celular | chaves | teclado
+O que significa keyboard?| inglês | 4 | chuveiro | bola | chaves | teclado
+O que significa ball?| inglês | 2 | chuveiro | bola | chaves | teclado
+O que significa keys?| inglês | 3 | chuveiro | bola | chaves | teclado
+O que significa happie than ever?| inglês | 3 | melhor que ontem | feliz por amanhã | feliz do que nunca | Melhor que nunca
+He ... perfect !!! | inglês | 1 | is | are | am | é
+she ... coffe | inglês | 3 | do | faz | does | goes
+i ... to school | inglês | 2 | Make | walk | eat | drink 
+i ... happie than ever | inglês | 3 | is | are | 'm | estou
+"will get vaccinated" siginifica  | inglês | 4 | Vai para a escola | Bolsonaro | Estudar | Vai se vacinar  
+Qual banda toca To The Line? | Música | 1 | TOTO | Pink Floyd | Stevie Ray Vaughan | Perl Jam
+Qual banda toca Simple Man? | Música | 1 | Lynyrd Skynyrd | Pink Floyd | Stevie Ray Vaughan | Perl Jam
+Qual banda toca Future Days? | Música | 4 | TOTO | Pink Floyd | Stevie Ray Vaughan | Perl Jam
+Qual banda toca Pride and Joy? | Música | 3 | TOTO | Pink Floyd | Stevie Ray Vaughan | Perl Jam
+Qual banda toca Free Bird? | Música | 2 | TOTO | Lynyrd Skynyrd | Stevie Ray Vaughan | Perl Jam
+Quem foi a primeira brasileira a se apresentar no VMA?| Música | 3 | Elis Regina | Gloría Maria | Anitta | Ivete Sangalo
+De quem é a música garota de Ipanema? | Música |2 |legião urbana |Carlos Jobim |Anitta |Raul seixas
+Exalta Samba é um grupo de ... | Música |4 |samba |sertanejo |rock |pagode
+Famosa cantora de axé | Música | 2 | Ludmila | Cláudia Leite | Rita Lee | Elis Regina 
+Cantor de A queda? | Música | 4 | legião urbana | Raul seixas | Rita Lee | Glória Grover
+Em Pagu (Rita Lee) Complete - Sou Mais ... | Música | 1 | Macho que Muito homem | Eu Mesma | Seu amigo do que você | Homem que você
+um clássico  de karaokê | Música | 2 | Body bag (beartooth) | Evidências (Chitãnzinho e xoxoró) | Go (The Chemical brothers) | Happie than ever( Billie Elish)
+Happie than ever( Billie Elish ) Fala sobre ? | Música | 4 | Drogas | Depressão | Suicidio | Relacionamento abusivo 
+Banda cujo os integrantes são desenhos animados? | Música | 2 | legião urbana | Gorillaz | beartooth | The Chemical brothers
+Quem é o Rei do pop ? | Música | 1 | Michael Jackson | Lade Gaga | Demi Lovato | Justin Timberlake
+Quem Canta Happie than ever ? | Música | 4 | Rita Lee | Lade Gaga | Anitta | Billie Elish
+Quem é a Rainha do pop ? | Música | 3 | Justin Timberlake | Michael Jackson | beartooth | Madonna
+Quem é a Rainha do Rock  ? | Música | 3 | Justin Timberlake | Michael Jackson | Elvis Presley | Madonna
+When the party's over ( Billie Elish ) Fala sobre ? | Música | 2 | Drogas | Depressão | Suicidio | Relacionamento abusivo 
+Quem é o protagonista de The Witcher? | Games |2 | Ciri | Gerald | Yennifer | Triss Merigold
+Qual desses jogos NÂO são fps?| Games |3 |Borderlands |Call of Duty | Final Fantasy | Battlefield
+Jogo conhecido por ser muito dificil| Games |1 |Dark Souls |GTA |Call of Duty |Free Fire
+Jogo de celular conhecido por ser feito por doces | Games | 2 | Cash royale| Candy Crush | free Fire| roblox
+Jogo mais jogado do mundo?| Games |2 | GTA | Minecraft | League of Legends | Dead by Dayligth
+Game no qual você é um assasino | Games |1 | Assassin's Creed | Minecraft | Candy Crush | Cash royale
+The witcher é um jogo de ... | Games | 3 | Tiro | Corrida | RPG | Esportes
+Famoso jogo de matar dragões | Games | 4 | GTA | Cash royale | Free fire | The elder scrolls 5: Skyrim
+qual dos intens NÃo são plataformas de video game ? | Games | 2 | Playstation | Televisão | Xbox | Wii
+Quem é o protagonista de Final Fantasy 12 | Games | 1 | Vaan | Ash | fran | Bash  

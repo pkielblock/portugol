@@ -1,0 +1,13 @@
+P:colher
+D:usado para comer
+D:redondo
+D:de metal
+
+P:palmeiras
+D:sem mundial
+D:freguês de todos os times paulistas
+D:porco
+
+P:naruto
+D:anime
+D:ninjas
